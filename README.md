@@ -55,7 +55,7 @@ Welcome to the **ooi.raga**, a simple multiplayer game where you control a cell,
 ### **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/yourusername/oi.raga.git](https://github.com/Chevuu/oi.raga.git)
+git clone https://github.com/Chevuu/oi.raga.git
 cd oi.raga
 ```
 
