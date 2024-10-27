@@ -1,6 +1,6 @@
-# **oi.gara**
+# **oi.raga**
 
-Welcome to the **ooi.gara**, a simple multiplayer game where you control a cell, consume smaller cells to grow, and compete with other players in real-time. This project demonstrates real-time multiplayer functionality using WebSockets, efficient rendering with React and Konva, and basic game mechanics like collision detection and spatial partitioning.
+Welcome to the **ooi.raga**, a simple multiplayer game where you control a cell, consume smaller cells to grow, and compete with other players in real-time. This project demonstrates real-time multiplayer functionality using WebSockets, efficient rendering with React and Konva, and basic game mechanics like collision detection and spatial partitioning.
 
 (This project is still in development so the concepts above are implemented but vaguely and wrongly)
 
@@ -55,8 +55,8 @@ Welcome to the **ooi.gara**, a simple multiplayer game where you control a cell,
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/oi.gara.git
-cd oi.gara
+git clone https://github.com/yourusername/oi.raga.git
+cd oi.raga
 ```
 
 ### **2. Install Server Dependencies**
